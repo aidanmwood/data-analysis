@@ -1,0 +1,238 @@
+Resort Name,Region,Year,Season Length,Snowfall (inches)
+Mt Abram,East,2023,99,15
+Mt Abram,East,2022,100,54
+Mt Abram,East,2021,85,14
+Mt Abram,East,2019,106,55
+Mt Abram,East,2018,112,79
+Mt Abram,East,2017,113,69
+Mt Abram,East,2016,100,40
+Mt Abram,East,2015,111,48
+Mt Abram,East,2014,120,87
+Sunday River,East,2023,158,117
+Sunday River,East,2022,157,99
+Sunday River,East,2021,153,80
+Sunday River,East,2019,191,154
+Sunday River,East,2018,169,125
+Sunday River,East,2017,160,196
+Sunday River,East,2016,195,57
+Sunday River,East,2015,180,153
+Sunday River,East,2014,176,111
+Sunday River,East,2013,165,108
+Lost Valley,East,2023,115,49
+Lost Valley,East,2022,100,57
+Lost Valley,East,2021,94,26
+Lost Valley,East,2019,110,60
+Lost Valley,East,2018,106,72
+Lost Valley,East,2017,107,71
+Lost Valley,East,2016,72,14
+Lost Valley,East,2015,71,35
+Lost Valley,East,2014,92,29
+Lost Valley,East,2013,84,37
+Cranmore,East,2023,130,117
+Cranmore,East,2022,116,91
+Cranmore,East,2021,113,48
+Cranmore,East,2020,123,73
+Cranmore,East,2019,141,67
+Cranmore,East,2018,129,120
+Cranmore,East,2017,121,141
+Cranmore,East,2016,116,29
+Cranmore,East,2015,133,84
+Cranmore,East,2014,133,93
+Cranmore,East,2013,128,88
+Bretton Woods,East,2023,144,120
+Bretton Woods,East,2022,135,111
+Bretton Woods,East,2021,138,108
+Bretton Woods,East,2019,150,213
+Bretton Woods,East,2018,158,208
+Bretton Woods,East,2017,155,185
+Bretton Woods,East,2016,137,89
+Bretton Woods,East,2015,161,199
+Bretton Woods,East,2014,163,149
+Bretton Woods,East,2013,150,172
+Cannon,East,2023,135,122
+Cannon,East,2022,129,91
+Cannon,East,2021,121,109
+Cannon,East,2019,143,161
+Cannon,East,2018,143,174
+Cannon,East,2017,142,245
+Cannon,East,2016,129,90
+Cannon,East,2015,141,190
+Cannon,East,2014,142,152
+Cannon,East,2013,134,181
+Black Mountain,East,2023,90,80
+Black Mountain,East,2022,76,65
+Black Mountain,East,2021,91,53
+Black Mountain,East,2019,139,85
+Black Mountain,East,2018,125,56
+Black Mountain,East,2017,126,92
+Black Mountain,East,2016,69,45
+Black Mountain,East,2015,105,95
+Black Mountain,East,2014,105,112
+Black Mountain,East,2013,99,103
+A Basin,Rockies,2022,231,185
+A Basin,Rockies,2021,207,236
+A Basin,Rockies,2019,259,329
+A Basin,Rockies,2018,234,247
+A Basin,Rockies,2017,233,345
+A Basin,Rockies,2016,228,290
+A Basin,Rockies,2015,240,314
+A Basin,Rockies,2014,230,418
+A Basin,Rockies,2013,214,281
+Winter Park,Rockies,2022,186,267
+Winter Park,Rockies,2021,165,216
+Winter Park,Rockies,2019,179,328
+Winter Park,Rockies,2018,173,302
+Winter Park,Rockies,2017,159,401
+Winter Park,Rockies,2016,172,385
+Winter Park,Rockies,2015,162,288
+Winter Park,Rockies,2014,164,356
+Winter Park,Rockies,2013,157,300
+Brighton,Rockies,2022,152,323
+Brighton,Rockies,2021,145,321
+Brighton,Rockies,2019,157,588
+Brighton,Rockies,2018,152,329
+Brighton,Rockies,2017,149,518
+Brighton,Rockies,2016,150,386
+Brighton,Rockies,2015,150,220
+Brighton,Rockies,2014,163,265
+Brighton,Rockies,2013,158,306
+Snowbird,Rockies,2022,166,323
+Snowbird,Rockies,2021,174,321
+Snowbird,Rockies,2019,191,588
+Snowbird,Rockies,2018,173,329
+Snowbird,Rockies,2017,187,518
+Snowbird,Rockies,2016,166,386
+Snowbird,Rockies,2015,170,220
+Snowbird,Rockies,2014,183,265
+Snowbird,Rockies,2013,169,306
+AZ Snowbowl,Rockies,2022,158,191
+AZ Snowbowl,Rockies,2021,163,203
+AZ Snowbowl,Rockies,2019,185,336
+AZ Snowbowl,Rockies,2018,152,99
+AZ Snowbowl,Rockies,2017,168,312
+AZ Snowbowl,Rockies,2016,149,205
+AZ Snowbowl,Rockies,2015,134,152
+AZ Snowbowl,Rockies,2014,120,50
+AZ Snowbowl,Rockies,2013,107,162
+Mt Baker,Pacific NW,2023,157,455
+Mt Baker,Pacific NW,2022,131,418
+Mt Baker,Pacific NW,2021,167,790
+Mt Baker,Pacific NW,2019,130,451
+Mt Baker,Pacific NW,2018,157,728
+Mt Baker,Pacific NW,2017,142,625
+Mt Baker,Pacific NW,2016,123,509
+Mission Ridge,Pacific NW,2023,163,157
+Mission Ridge,Pacific NW,2022,156,158
+Mission Ridge,Pacific NW,2021,149,100
+Mission Ridge,Pacific NW,2019,156,175
+Mission Ridge,Pacific NW,2018,134,119
+Mission Ridge,Pacific NW,2017,135,166
+Mission Ridge,Pacific NW,2016,142,150
+Mission Ridge,Pacific NW,2015,127,76
+Mission Ridge,Pacific NW,2014,139,143
+Mission Ridge,Pacific NW,2013,134,158
+Crystal,Pacific NW,2023,149,388
+Crystal,Pacific NW,2022,191,443
+Crystal,Pacific NW,2021,176,406
+Crystal,Pacific NW,2019,150,377
+Crystal,Pacific NW,2018,158,403
+Crystal,Pacific NW,2017,150,388
+Crystal,Pacific NW,2016,146,409
+Crystal,Pacific NW,2015,117,154
+Crystal,Pacific NW,2014,153,429
+Timberline,Pacific NW,2022,157,426
+Timberline,Pacific NW,2021,166,231
+Timberline,Pacific NW,2019,179,367
+Timberline,Pacific NW,2018,201,442
+Timberline,Pacific NW,2017,170,543
+Timberline,Pacific NW,2016,217,454
+Timberline,Pacific NW,2015,177,217
+Timberline,Pacific NW,2014,232,406
+Timberline,Pacific NW,2013,202,435
+Palisades,California,2022,214,340
+Palisades,California,2021,174,275
+Palisades,California,2019,234,650
+Palisades,California,2018,193,377
+Palisades,California,2017,237,701
+Palisades,California,2016,199,473
+Palisades,California,2015,148,193
+Palisades,California,2014,151,273
+Palisades,California,2013,155,289
+Mammoth,California,2022,222,222
+Mammoth,California,2021,195,225
+Mammoth,California,2019,257,495
+Mammoth,California,2018,221,277
+Mammoth,California,2017,270,608
+Mammoth,California,2016,235,393
+Mammoth,California,2015,193,161
+Mammoth,California,2014,200,192
+Mammoth,California,2013,201,315
+Sugar Bowl,California,2023,158,615
+Sugar Bowl,California,2022,123,231
+Sugar Bowl,California,2021,142,261
+Sugar Bowl,California,2019,142,529
+Sugar Bowl,California,2018,141,239
+Sugar Bowl,California,2017,163,522
+Sugar Bowl,California,2016,155,356
+Sugar Bowl,California,2015,107,99
+Sugar Bowl,California,2014,134,199
+Sugar Bowl,California,2013,147,290
+Magic,East,2023,113,144
+Magic,East,2022,100,67
+Magic,East,2021,106,101
+Magic,East,2019,135,135
+Magic,East,2018,113,178
+Magic,East,2017,104,152
+Magic,East,2016,56,13
+Magic,East,2015,112,78
+Magic,East,2014,108,96
+Magic,East,2013,103,114
+Killington,East,2022,211,141
+Killington,East,2021,180,151
+Killington,East,2019,227,197
+Killington,East,2018,192,223
+Killington,East,2017,219,225
+Killington,East,2016,225,67
+Killington,East,2015,202,191
+Killington,East,2014,202,197
+Killington,East,2013,180,182
+Burke,East,2023,135,142
+Burke,East,2022,121,80
+Burke,East,2021,106,71
+Burke,East,2019,144,107
+Burke,East,2018,135,179
+Burke,East,2017,135,185
+Burke,East,2016,86,225
+Burke,East,2015,113,122
+Burke,East,2014,119,172
+Burke,East,2013,127,150
+Jay Peak,East,2023,158,321
+Jay Peak,East,2022,170,273
+Jay Peak,East,2021,156,216
+Jay Peak,East,2019,164,310
+Jay Peak,East,2018,171,361
+Jay Peak,East,2017,179,482
+Jay Peak,East,2016,156,197
+Jay Peak,East,2015,163,341
+Jay Peak,East,2014,169,301
+Jay Peak,East,2013,155,310
+MRG,East,2023,127,158
+MRG,East,2022,106,84
+MRG,East,2021,105,52
+MRG,East,2019,148,134
+MRG,East,2018,119,124
+MRG,East,2017,114,144
+MRG,East,2016,60,44
+MRG,East,2015,129,96
+MRG,East,2014,118,104
+MRG,East,2013,104,87
+Bolton,East,2023,143,203
+Bolton,East,2022,126,190
+Bolton,East,2021,114,127
+Bolton,East,2019,143,157
+Bolton,East,2018,127,168
+Bolton,East,2017,122,270
+Bolton,East,2016,80,84
+Bolton,East,2015,120,221
+Bolton,East,2014,114,166
+Bolton,East,2013,113,211
