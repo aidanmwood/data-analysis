@@ -1,0 +1,238 @@
+Resort Name,Year,Season Length,Snowfall (inches)
+Mt Abram,2023,99,15
+Mt Abram,2022,100,54
+Mt Abram,2021,85,14
+Mt Abram,2019,106,55
+Mt Abram,2018,112,79
+Mt Abram,2017,113,69
+Mt Abram,2016,100,40
+Mt Abram,2015,111,48
+Mt Abram,2014,120,87
+Sunday River,2023,158,117
+Sunday River,2022,157,99
+Sunday River,2021,153,80
+Sunday River,2019,191,154
+Sunday River,2018,169,125
+Sunday River,2017,160,196
+Sunday River,2016,195,57
+Sunday River,2015,180,153
+Sunday River,2014,176,111
+Sunday River,2013,165,108
+Lost Valley,2023,115,49
+Lost Valley,2022,100,57
+Lost Valley,2021,94,26
+Lost Valley,2019,110,60
+Lost Valley,2018,106,72
+Lost Valley,2017,107,71
+Lost Valley,2016,72,14
+Lost Valley,2015,71,35
+Lost Valley,2014,92,29
+Lost Valley,2013,84,37
+Cranmore,2023,130,117
+Cranmore,2022,116,91
+Cranmore,2021,113,48
+Cranmore,2020,123,73
+Cranmore,2019,141,67
+Cranmore,2018,129,120
+Cranmore,2017,121,141
+Cranmore,2016,116,29
+Cranmore,2015,133,84
+Cranmore,2014,133,93
+Cranmore,2013,128,88
+Bretton Woods,2023,144,120
+Bretton Woods,2022,135,111
+Bretton Woods,2021,138,108
+Bretton Woods,2019,150,213
+Bretton Woods,2018,158,208
+Bretton Woods,2017,155,185
+Bretton Woods,2016,137,89
+Bretton Woods,2015,161,199
+Bretton Woods,2014,163,149
+Bretton Woods,2013,150,172
+Cannon,2023,135,122
+Cannon,2022,129,91
+Cannon,2021,121,109
+Cannon,2019,143,161
+Cannon,2018,143,174
+Cannon,2017,142,245
+Cannon,2016,129,90
+Cannon,2015,141,190
+Cannon,2014,142,152
+Cannon,2013,134,181
+Black Mountain,2023,90,80
+Black Mountain,2022,76,65
+Black Mountain,2021,91,53
+Black Mountain,2019,139,85
+Black Mountain,2018,125,56
+Black Mountain,2017,126,92
+Black Mountain,2016,69,45
+Black Mountain,2015,105,95
+Black Mountain,2014,105,112
+Black Mountain,2013,99,103
+A Basin,2022,231,185
+A Basin,2021,207,236
+A Basin,2019,259,329
+A Basin,2018,234,247
+A Basin,2017,233,345
+A Basin,2016,228,290
+A Basin,2015,240,314
+A Basin,2014,230,418
+A Basin,2013,214,281
+Winter Park,2022,186,267
+Winter Park,2021,165,216
+Winter Park,2019,179,328
+Winter Park,2018,173,302
+Winter Park,2017,159,401
+Winter Park,2016,172,385
+Winter Park,2015,162,288
+Winter Park,2014,164,356
+Winter Park,2013,157,300
+Brighton,2022,152,323
+Brighton,2021,145,321
+Brighton,2019,157,588
+Brighton,2018,152,329
+Brighton,2017,149,518
+Brighton,2016,150,386
+Brighton,2015,150,220
+Brighton,2014,163,265
+Brighton,2013,158,306
+Snowbird,2022,166,323
+Snowbird,2021,174,321
+Snowbird,2019,191,588
+Snowbird,2018,173,329
+Snowbird,2017,187,518
+Snowbird,2016,166,386
+Snowbird,2015,170,220
+Snowbird,2014,183,265
+Snowbird,2013,169,306
+AZ Snowbowl,2022,158,191
+AZ Snowbowl,2021,163,203
+AZ Snowbowl,2019,185,336
+AZ Snowbowl,2018,152,99
+AZ Snowbowl,2017,168,312
+AZ Snowbowl,2016,149,205
+AZ Snowbowl,2015,134,152
+AZ Snowbowl,2014,120,50
+AZ Snowbowl,2013,107,162
+Mt Baker,2023,157,455
+Mt Baker,2022,131,418
+Mt Baker,2021,167,790
+Mt Baker,2019,130,451
+Mt Baker,2018,157,728
+Mt Baker,2017,142,625
+Mt Baker,2016,123,509
+Mission Ridge,2023,163,157
+Mission Ridge,2022,156,158
+Mission Ridge,2021,149,100
+Mission Ridge,2019,156,175
+Mission Ridge,2018,134,119
+Mission Ridge,2017,135,166
+Mission Ridge,2016,142,150
+Mission Ridge,2015,127,76
+Mission Ridge,2014,139,143
+Mission Ridge,2013,134,158
+Crystal,2023,149,388
+Crystal,2022,191,443
+Crystal,2021,176,406
+Crystal,2019,150,377
+Crystal,2018,158,403
+Crystal,2017,150,388
+Crystal,2016,146,409
+Crystal,2015,117,154
+Crystal,2014,153,429
+Timberline,2022,157,426
+Timberline,2021,166,231
+Timberline,2019,179,367
+Timberline,2018,201,442
+Timberline,2017,170,543
+Timberline,2016,217,454
+Timberline,2015,177,217
+Timberline,2014,232,406
+Timberline,2013,202,435
+Palisades,2022,214,340
+Palisades,2021,174,275
+Palisades,2019,234,650
+Palisades,2018,193,377
+Palisades,2017,237,701
+Palisades,2016,199,473
+Palisades,2015,148,193
+Palisades,2014,151,273
+Palisades,2013,155,289
+Mammoth,2022,222,222
+Mammoth,2021,195,225
+Mammoth,2019,257,495
+Mammoth,2018,221,277
+Mammoth,2017,270,608
+Mammoth,2016,235,393
+Mammoth,2015,193,161
+Mammoth,2014,200,192
+Mammoth,2013,201,315
+Sugar Bowl,2023,158,615
+Sugar Bowl,2022,123,231
+Sugar Bowl,2021,142,261
+Sugar Bowl,2019,142,529
+Sugar Bowl,2018,141,239
+Sugar Bowl,2017,163,522
+Sugar Bowl,2016,155,356
+Sugar Bowl,2015,107,99
+Sugar Bowl,2014,134,199
+Sugar Bowl,2013,147,290
+Magic,2023,113,144
+Magic,2022,100,67
+Magic,2021,106,101
+Magic,2019,135,135
+Magic,2018,113,178
+Magic,2017,104,152
+Magic,2016,56,13
+Magic,2015,112,78
+Magic,2014,108,96
+Magic,2013,103,114
+Killington,2022,211,141
+Killington,2021,180,151
+Killington,2019,227,197
+Killington,2018,192,223
+Killington,2017,219,225
+Killington,2016,225,67
+Killington,2015,202,191
+Killington,2014,202,197
+Killington,2013,180,182
+Burke,2023,135,142
+Burke,2022,121,80
+Burke,2021,106,71
+Burke,2019,144,107
+Burke,2018,135,179
+Burke,2017,135,185
+Burke,2016,86,225
+Burke,2015,113,122
+Burke,2014,119,172
+Burke,2013,127,150
+Jay Peak,2023,158,321
+Jay Peak,2022,170,273
+Jay Peak,2021,156,216
+Jay Peak,2019,164,310
+Jay Peak,2018,171,361
+Jay Peak,2017,179,482
+Jay Peak,2016,156,197
+Jay Peak,2015,163,341
+Jay Peak,2014,169,301
+Jay Peak,2013,155,310
+MRG,2023,127,158
+MRG,2022,106,84
+MRG,2021,105,52
+MRG,2019,148,134
+MRG,2018,119,124
+MRG,2017,114,144
+MRG,2016,60,44
+MRG,2015,129,96
+MRG,2014,118,104
+MRG,2013,104,87
+Bolton,2023,143,203
+Bolton,2022,126,190
+Bolton,2021,114,127
+Bolton,2019,143,157
+Bolton,2018,127,168
+Bolton,2017,122,270
+Bolton,2016,80,84
+Bolton,2015,120,221
+Bolton,2014,114,166
+Bolton,2013,113,211
